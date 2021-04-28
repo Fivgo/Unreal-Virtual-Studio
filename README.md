@@ -1,0 +1,2 @@
+# Unreal-Virtual-Studio
+This was all the code that I created for my senior capstone at OSU. It allows for the input from a video camera, then converts it into a material where it is applied onto a plane. There are still some inconsistencies that need to be looked over again such as matching the camera FOV with the scale of the 3D environment to provide a more convincing translation. Either way, here's a link to a tutorial on how you can get these tools working: &lt;In progress>
